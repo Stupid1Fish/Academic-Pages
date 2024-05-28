@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm 辉仔(huizai)"
+title: "Hello there, I'm 辉仔(huizai) 👋"
 author_profile: true
 redirect_from: 
   - /about/
