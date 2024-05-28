@@ -9,9 +9,9 @@ redirect_from:
 
 👨🏻‍💻 Job finding! Life meaning thinking!  
 
-📚 
+📚 Research on development based molecular level.
 
-📽️ Interesting in stories and for finding metaphor. 
+📽️ Interesting in stories and Data analysis for finding metaphor. 
 
 <!A data-driven personal website>
 ======
