@@ -41,9 +41,7 @@ Publications
   
 Talks
 ======
-  <ul>{%  %}
-    {%   %}
-  {%  %}</ul>
+
    
 Service and leadership
 ======
