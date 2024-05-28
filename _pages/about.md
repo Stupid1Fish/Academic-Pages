@@ -13,5 +13,5 @@ redirect_from:
 
 📽️ Interesting in stories and for finding metaphor. 
 
-<! A data-driven personal website>
+<!A data-driven personal website>
 ======
