@@ -12,7 +12,7 @@ title                    : "Personal academic pages"
 title_separator          : "-"
 name                     : # &name "Your Name"
 description              : # &description "personal description"
-url                      : 'https://stupid1fish.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://stupid1fish.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Stupid1Fish/Stupid1Fish.github.io"
 
