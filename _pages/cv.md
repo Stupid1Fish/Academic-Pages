@@ -41,9 +41,9 @@ Publications
   
 Talks
 ======
-  <ul>{% 222 %}
-    {% 3333  %}
-  {% endfor %}</ul>
+  <ul>{%  %}
+    {%   %}
+  {%  %}</ul>
    
 Service and leadership
 ======
