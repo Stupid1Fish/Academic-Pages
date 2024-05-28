@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in bioinformatics, Jinan University, 2027 (expected)
+* M.S. in Genetics, Jinan University, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Spring 2022 - Winter 2024: Guangzhou Huayin Medical Laboratory Center Co., Ltd.
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statics and programming
+  * Python3 - Using machine learning techniques for feature engineering and model training to solve specific problems
+  * R - Bioconductor
+  * Linux - Bash
+* High-throughput sequencing technology
+* Teamwork
+  * Actively participate in academic and technical discussions
+  * Actively uphold team honor and collaborate to fulfill project tasks in assigned roles
+  * Follow standard operating procedures in work
 
 Publications
 ======
@@ -49,16 +41,10 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% 222 %}
+    {% 3333  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+   
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
