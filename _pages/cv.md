@@ -17,9 +17,7 @@ Education
 Work experience
 ======
 * Spring 2022 - Winter 2024: Guangzhou Huayin Medical Laboratory Center Co., Ltd.
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+
   
 Skills
 ======
