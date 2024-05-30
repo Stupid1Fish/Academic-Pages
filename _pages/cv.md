@@ -21,8 +21,8 @@ Work experience
 Skills
 ======
 * Statics and programming
-  * Python3, machine learning techniques for feature engineering and model training
-  * R, Bioconductor
+  * Python3 - machine learning techniques for feature engineering and model training
+  * R - Bioconductor
   * Linux - Bash
 * High-throughput sequencing technology
 * Teamwork
