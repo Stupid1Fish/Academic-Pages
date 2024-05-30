@@ -16,7 +16,8 @@ Education
 
 Work experience
 ======
-* Spring 2022 - Winter 2024: Guangzhou Huayin Medical Laboratory Center Co., Ltd.
+* High-Throughput Sequencing Technology Application Engineer, Spring 2022 - Winter 2023
+  Guangzhou Huayin Medical Laboratory Center Co., Ltd.
 
   
 Skills
