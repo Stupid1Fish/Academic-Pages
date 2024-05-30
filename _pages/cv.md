@@ -16,15 +16,13 @@ Education
 
 Work experience
 ======
-* High-Throughput Sequencing Technology Application Engineer, Spring 2022 - Winter 2023
-  Guangzhou Huayin Medical Laboratory Center Co., Ltd.
-
+* High-Throughput Sequencing Technology Application Engineer, Guangzhou Huayin Medical Laboratory Center Co., Ltd., Spring 2022 - Winter 2023
   
 Skills
 ======
 * Statics and programming
-  * Python3 - Using machine learning techniques for feature engineering and model training to solve specific problems
-  * R - Bioconductor
+  * Python3, machine learning techniques for feature engineering and model training
+  * R, Bioconductor
   * Linux - Bash
 * High-throughput sequencing technology
 * Teamwork
