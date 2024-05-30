@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm 辉仔(huizai) 👋"
+title: "👋 Hello there, I'm 阿耀 "
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 👨🏻‍💻 Job finding! Life meaning thinking!  
 
-📚 Research on development based molecular level.
+📚 Research on developmental biology based molecular level.
 
 📽️ Interesting in stories and Data analysis for finding metaphor. 
 
