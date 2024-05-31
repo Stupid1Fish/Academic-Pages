@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hello there, I'm 阿耀 "
+title: "Hello there, I'm 阿耀 👋. "
 author_profile: true
 redirect_from: 
   - /about/
