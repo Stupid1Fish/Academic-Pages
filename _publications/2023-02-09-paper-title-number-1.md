@@ -3,7 +3,7 @@ title: "Morphometric analysis of the size-adjusted linear dimensions of the skul
 collection: publications
 permalink: /publication/202302-paper1
 date: 2023-02-09
-venue: '<i>BMC Genomics</i>'
+venue: '_BMC Genomics_'
 excerpt: 'The abstract'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/36759768/'
 citation: 'Liang Y, Song C et al. (2023) "Morphometric analysis of the size-adjusted linear dimensions of the skull landmarks revealed craniofacial dysmorphology in <i>Mid1</i>-cKO mice"，<i>BMC Genomics</i>.  '
