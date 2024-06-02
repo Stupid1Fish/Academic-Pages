@@ -42,7 +42,7 @@ Skills
 <tr><td valign="top" width="55%">
 <div align="left"> 
 <a href="https://www.r-project.org/" target="_blank">
-  <img style="icon" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50px" /></a>
+  <img class="icon" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50px" /></a>
 <a href="https://www.python.org/" target="_blank">
   <img class="icon" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50px" /></a>
 <a href="https://pytorch.org/" target="_blank">
