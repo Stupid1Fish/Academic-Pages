@@ -2,7 +2,7 @@
 
 title: "Morphometric analysis of the size-adjusted linear dimensions of the skull landmarks revealed craniofacial dysmorphology in <i>Mid1</i>-cKO mice"
 collection: publications
-permalink: /publications/202302-paper1
+permalink: /publication/2009-10-01-paper-title-number-1
 date: 2023-02-09
 venue: '<i>BMC Genomics</i>'
 excerpt: 'The abstract'
