@@ -33,8 +33,8 @@ Skills
 
 <style>
     .icon {
-      width: 50px;
-      height: 50px;
+      width: 58px;
+      height: 58px;
       margin: 10px;
     }
 </style>
@@ -42,19 +42,18 @@ Skills
 <tr><td valign="top" width="55%">
 <div align="left"> 
 <a href="https://www.r-project.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50px" /></a>
+  <img style="icon" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50px" /></a>
 <a href="https://www.python.org/" target="_blank">
   <img class="icon" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50px" /></a>
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50px" /></a> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50px" /> 
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50px" /></a>
-<br> 
-<br> 
+<a href="https://pytorch.org/" target="_blank">
+  <img class="icon" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50px" /></a> 
+  <img class="icon" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50px" /> 
+<a href="https://keras.io/" target="_blank">
+  <img class="icon" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50px" /></a>
 <a href="https://www.linux.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> 
+  <img class="icon" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-
+  <img class="icon" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
 </div>
 </td></tr>
 
