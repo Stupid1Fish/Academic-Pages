@@ -33,13 +33,20 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
+      
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
+      
     {% if post.venue %}
       {% assign citation_parts = post.citation | split: '"' %}
       <p class="archive__item-excerpt" itemprop="description">{{ citation_parts[0] }},<i>{{ post.venue }}</i></p>
       {% endif %}
+      
+    {% if post.start_date %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.start }}</p>
+      {% endif %}
+      
     </li>
  </article>
 </div>
