@@ -55,7 +55,7 @@
     
     {% if post.collection == 'publications' %}
       <p class="archive__item-excerpt" itemprop="description"><b>Research question:</b> {{ post.research_question | markdownify }}</p>
-      <img src="{{ post.image_path }}" alt="Paper Image">
+      <img src="{{ post.image_path }}" alt="Paper Image" style="width:50%; height:auto">
       <p class="archive__item-excerpt" itemprop="description"><b>Conclusion:</b> {{ post.conclusion | markdownify }}</p>
       <p style="font-size: smaller"><b>Keywords:</b> {{ post.keywords }}</p>
     {% endif %}
