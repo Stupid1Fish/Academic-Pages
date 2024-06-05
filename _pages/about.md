@@ -13,7 +13,7 @@ redirect_from:
 
 📽️ Interesting in stories and Data analysis for finding metaphor. 
 
-<img src="/images/image_to_text_vis.png" alt="Illustration of combining vision and language modalities" style="width:50%; height:auto; float:right;">
+<img src="/images/What-is-AI-1-1536x861.jpg" alt="Image created with Midjourney" style="width:50%; height:auto; float:right;">
 
 ======
 
