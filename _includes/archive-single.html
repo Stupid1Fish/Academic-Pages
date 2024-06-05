@@ -52,11 +52,11 @@
     {% endif %}
 
     {% if post.collection == 'publications' %}
-      <p><b>Conclusion:</b> {{ post.conclusion }}</p>
+      <img src="{{ post.image_path }}" alt="Paper Image" style="width:50%; height:auto;float:none">
     {% endif %}
 
     {% if post.collection == 'publications' %}
-      <img src="{{ post.image_path }}" alt="Paper Image" style="width:50%; height:auto;float:none">
+      <p><b>Conclusion:</b> {{ post.conclusion }}</p>
     {% endif %}
     
     {% if post.collection == 'publications' %}
