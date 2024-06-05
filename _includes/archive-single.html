@@ -52,12 +52,17 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    
+
     {% if post.collection == 'publications' %}
       <p class="archive__item-excerpt" itemprop="description"><b>Research question:</b> {{ post.research_question | markdownify }}</p>
-      <img src="{{ post.image_path }}" alt="Paper Image" style="width:50%; height:auto">
+    {% endif %}
+    
+    {% if post.collection == 'publications' %}
+      <img src="{{ post.image_path }}" alt="Paper Image" style="width:50%; height:auto;float:middle">
       <p class="archive__item-excerpt" itemprop="description"><b>Conclusion:</b> {{ post.conclusion | markdownify }}</p>
       <p style="font-size: smaller"><b>Keywords:</b> {{ post.keywords }}</p>
     {% endif %}
+
+    
   </article>
 </div>
