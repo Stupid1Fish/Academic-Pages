@@ -18,7 +18,7 @@ redirect_from:
 <div style="text-align: center;">
   <img src="/images/kaiping.jpg" alt="Image of Kaiping Diaolou (pillbox-like houses)" style="width:600px; height:auto; margin-bottom: 5px;">
   <p style="margin: 0; font-size: 0.8em;">
-    <em><i>Image of Kaiping Diaolou (pillbox-like houses)</i></em>
+    <em>Image of Kaiping Diaolou (pillbox-like houses)</em>
   </p>
 </div>
 
