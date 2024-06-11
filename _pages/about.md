@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<p font-size: 1.2em;">
 🔭 Research on developmental biology based molecular level.
 
 📚 Interesting in stories and data analysis for finding metaphor. 
@@ -14,6 +14,7 @@ redirect_from:
 🤔 Job out! Life meaning thinking!  
 
 📽️ Currently, I'm traveling everywhere and trying to capture beautiful moments.
+</p>
 
 <div style="text-align: center;">
   <img src="/images/kaiping.jpg" alt="Image of Kaiping Diaolou (pillbox-like houses)" style="width:600px; height:auto; margin-bottom: 5px;">
