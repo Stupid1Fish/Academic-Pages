@@ -9,7 +9,7 @@ redirect_from:
 
 🔭 Research on developmental biology based molecular level.
 
-📚 Interesting in stories and Data analysis for finding metaphor. 
+📚 Interesting in stories and data analysis for finding metaphor. 
 
 🤔 Job out! Life meaning thinking!  
 
