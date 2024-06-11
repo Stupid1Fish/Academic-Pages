@@ -17,10 +17,12 @@ redirect_from:
 
 📽️ Currently, I'm traveling everywhere and trying to capture beautiful moments.
 
-<img src="/images/kaiping.jpg" alt="Image of Kaiping Diaolou (pillbox-like houses)" style="width:90%; height:auto; ">
-<p style="clear: both;">
-  <em><i>Image of Kaiping Diaolou (pillbox-like houses)</i></em>
-</p>
+<div style="text-align: center;">
+  <img src="/images/kaiping.jpg" alt="Image of Kaiping Diaolou (pillbox-like houses)" style="width:600px; height:auto; margin-bottom: 5px;">
+  <p style="margin: 0; font-size: 0.8em;">
+    <em><i>Image of Kaiping Diaolou (pillbox-like houses)</i></em>
+  </p>
+</div>
 
 ======
 
