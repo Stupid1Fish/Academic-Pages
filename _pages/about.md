@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-
-
-🤔 Job out! Life meaning thinking!  
-
 🔭 Research on developmental biology based molecular level.
 
 📚 Interesting in stories and Data analysis for finding metaphor. 
+
+🤔 Job out! Life meaning thinking!  
 
 📽️ Currently, I'm traveling everywhere and trying to capture beautiful moments.
 
