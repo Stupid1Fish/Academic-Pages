@@ -13,7 +13,7 @@ redirect_from:
   <title>Increase Font Size</title>
   <style>
     .large-text {
-      font-size: 24px; /* 或根据需要设置其他大小 */
+      font-size: 30px; /* 或根据需要设置其他大小 */
     }
   </style>
 </head>
