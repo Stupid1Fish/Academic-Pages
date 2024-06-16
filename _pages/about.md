@@ -35,7 +35,7 @@ redirect_from:
 ## 📽️ Photographic content
 
 <div style="text-align: center;">
-  <img src="/images/about_me/kaiping.jpg" alt="Image of Kaiping Diaolou (pillbox-like houses)" style="width:600px; height:auto; margin-bottom: 5px;">
+  <img src="/images/about_me/Kaiping.jpg" alt="Image of Kaiping Diaolou (pillbox-like houses)" style="width:600px; height:auto; margin-bottom: 5px;">
   <p style="margin: 0; font-size: 0.8em;">
     <em>Image of Kaiping Diaolou (pillbox-like houses)</em>
   </p>
