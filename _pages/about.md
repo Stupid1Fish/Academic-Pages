@@ -41,10 +41,19 @@ redirect_from:
   </p>
 </div>
 <br>
+
 <div style="text-align: center;">
   <img src="/images/about_me/Xiaozhou.jpg" alt="The road in Xiaozhou Village near the Zhujiang River" style="width:600px; height:auto; margin-bottom: 5px;">
   <p style="margin: 0; font-size: 0.8em;">
     <em>The road in Xiaozhou Village near the Zhujiang River</em>
+  </p>
+</div>
+<br>
+
+<div style="text-align: center;">
+  <img src="/images/about_me/Najin.jpg" alt="The coastline of Naqin Peninsula, Taishan" style="width:600px; height:auto; margin-bottom: 5px;">
+  <p style="margin: 0; font-size: 0.8em;">
+    <em>The coastline of Naqin Peninsula, Taishan</em>
   </p>
 </div>
  
