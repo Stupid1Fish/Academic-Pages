@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+---
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -24,7 +27,8 @@ redirect_from:
 </body>
 </html>
 
-======
+---
+
 ## 🤖 Selected Experience
 
 
