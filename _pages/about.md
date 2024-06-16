@@ -20,8 +20,7 @@ redirect_from:
 <body>
   <p class="large-text">🔬 Research on developmental biology based molecular level.</p>
   <p class="large-text">📚 Interesting in stories and data analysis for finding metaphor.</p>
-  <p class="large-text">🤔 Job out! Life meaning thinking!</p>
-  <p class="large-text">📽️ Currently, I'm traveling everywhere and trying to capture beautiful moments.</p>
+  <p class="large-text">🤔 Job out! Currently, I'm traveling everywhere and trying to capture beautiful moments. </p>
 </body>
 </html>
 
@@ -29,7 +28,7 @@ redirect_from:
 ## 🤖 Selected Experience
 
 
-## 🔭 Photographic content
+## 📽️ Photographic content
 
 <div style="text-align: center;">
   <img src="/images/kaiping.jpg" alt="Image of Kaiping Diaolou (pillbox-like houses)" style="width:600px; height:auto; margin-bottom: 5px;">
