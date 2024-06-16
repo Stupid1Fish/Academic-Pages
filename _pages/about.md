@@ -22,7 +22,7 @@ redirect_from:
 </head>
 <body>
   <p class="large-text">🔬 Research on developmental biology based molecular level.</p>
-  <p class="large-text">📚 Interesting in stories and data analysis for finding metaphor.</p>
+  <p class="large-text">📚 Interest in stories and data analysis for finding metaphor.</p>
   <p class="large-text">🤔 Job out! Currently, I'm traveling everywhere and trying to capture beautiful moments. </p>
 </body>
 </html>
