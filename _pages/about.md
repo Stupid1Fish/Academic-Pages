@@ -40,7 +40,7 @@ redirect_from:
     <em>Image of Kaiping Diaolou (pillbox-like houses)</em>
   </p>
 </div>
-
+<br>
 <div style="text-align: center;">
   <img src="/images/about_me/Xiaozhou.jpg" alt="The road in Xiaozhou Village near the Zhujiang River" style="width:600px; height:auto; margin-bottom: 5px;">
   <p style="margin: 0; font-size: 0.8em;">
