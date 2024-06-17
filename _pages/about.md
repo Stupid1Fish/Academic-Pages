@@ -33,8 +33,6 @@ redirect_from:
 
 
 ## 📽️ Photographic content
-
-
 <div style="text-align: center;">
   <img src="/images/about_me/Xiaozhou.jpg" alt="The road in Xiaozhou Village near the Zhujiang River" style="width:600px; height:auto; margin-bottom: 5px;">
   <p style="margin: 0; font-size: 0.8em;">
@@ -89,6 +87,7 @@ redirect_from:
     <em>The coastline of Naqin Peninsula, Taishan, Summer</em>
   </p>
 </div>
+<br>
 
 <div style="text-align: center;">
   <img src="/images/about_me/Dongjianghu.jpg" alt="Misty Xiaodong River, Chenzhou" style="width:auto; height:600px; margin-bottom: 5px;">
@@ -96,6 +95,7 @@ redirect_from:
     <em>Misty Xiaodong River, Chenzhou, Spring</em>
   </p>
 </div>
+<br>
  
 <div style="text-align: center;">
   <img src="/images/about_me/Dongting.jpg" alt="The south road of Dongting Lake, Yueyang" style="width:600px; height:auto; margin-bottom: 5px;">
@@ -103,6 +103,7 @@ redirect_from:
     <em>The south road of Dongting Lake, Yueyang, Spring</em>
   </p>
 </div>
+<br>
 
 <div style="text-align: center;">
   <img src="/images/about_me/Yellow Crane Tower.jpg" alt="The View of Yangtze River from the Yellow Crane Tower" style="width:600px; height:auto; margin-bottom: 5px;">
