@@ -26,12 +26,16 @@ redirect_from:
   <p class="large-text">🤔 Job out! Currently, I'm traveling everywhere and trying to capture beautiful moments. </p>
 </body>
 </html>
+<br>
+---
+## 🤖 Exploring in
+1. Principle and application of High-throughput sequencing
+2. Art of data analysis
+3. Scientific research in developmental biology
+4. Industry of pharmaceutical and health
+<br>
 
 ---
-
-## 🤖 Selected Experience
-
-
 ## 📽️ Photographic content
 <div style="text-align: center;">
   <img src="/images/about_me/Xiaozhou.jpg" alt="The road in Xiaozhou Village near the Zhujiang River" style="width:600px; height:auto; margin-bottom: 5px;">
