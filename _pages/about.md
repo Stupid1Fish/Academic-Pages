@@ -28,13 +28,28 @@ redirect_from:
 </html>
 
 ## 🤖 Exploring in
-<html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+  body {
+    font-family: Arial, sans-serif; /* 设置整个文档的字体 */
+    line-height: 1.6; /* 设置行高，这里是基于字体大小的倍数 */
+  }
+  p {
+    font-size: 20px; /* 设置段落的字体大小 */
+    margin-bottom: 10px; /* 设置段落之间的下边距 */
+  }
+  </style>
+</head>
   <body>
-    <p> 
-1. Principle and application of High-throughput sequencing</p>
-<p>2. Art of data analysis<br></p>
-<p> 3. Scientific research in developmental biology<br></p>
-<p> 4. Industry of pharmaceutical and health<br></p>
+   
+<p>1. Principle and application of High-throughput sequencing</p>
+<p>2. Art of data analysis</p>
+<p>3. Scientific research in developmental biology</p>
+<p>4. Industry of pharmaceutical and health</p>
   </body>
 </html>
 
