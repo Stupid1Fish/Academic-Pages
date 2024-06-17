@@ -91,14 +91,14 @@ redirect_from:
 </div>
 
 <div style="text-align: center;">
-  <img src="/images/about_me/Dongjianghu.jpg" alt="Misty Xiaodong River, Chenzhou" style="width:600px; height:auto; margin-bottom: 5px;">
+  <img src="/images/about_me/Dongjianghu.jpg" alt="Misty Xiaodong River, Chenzhou" style="width:auto; height:600px; margin-bottom: 5px;">
   <p style="margin: 0; font-size: 0.8em;">
     <em>Misty Xiaodong River, Chenzhou, Spring</em>
   </p>
 </div>
  
 <div style="text-align: center;">
-  <img src="/images/about_me/Dongting.jpg" alt="The south road of Dongting Lake, Yueyang" style="width:auto; height:600px; margin-bottom: 5px;">
+  <img src="/images/about_me/Dongting.jpg" alt="The south road of Dongting Lake, Yueyang" style="width:600px; height:auto; margin-bottom: 5px;">
   <p style="margin: 0; font-size: 0.8em;">
     <em>The south road of Dongting Lake, Yueyang, Spring</em>
   </p>
