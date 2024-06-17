@@ -49,9 +49,10 @@ redirect_from:
     <em>The waterfall of Baishuizhai, Guangzhou, Spring</em>
   </p>
 </div>
+<br>
 
 <div style="text-align: center;">
-  <img src="/images/about_me/Kaiping.jpg" alt="Guanyin (Goddess of Mercy) of Mount Xiqiao, Foshan" style="width:600px; height:auto; margin-bottom: 5px;">
+  <img src="/images/about_me/Xiqiao.jpg" alt="Guanyin (Goddess of Mercy) of Mount Xiqiao, Foshan" style="width:600px; height:auto; margin-bottom: 5px;">
   <p style="margin: 0; font-size: 0.8em;">
     <em>Guanyin (Goddess of Mercy) of Mount Xiqiao, Foshan, Winter</em>
   </p>
@@ -67,7 +68,7 @@ redirect_from:
 <br>
 
 <div style="text-align: center;">
-  <img src="/images/about_me/South Moat.jpg" alt="Quancheng Square, Jinan" style="width:auto; height:600px; margin-bottom: 5px;">
+  <img src="/images/about_me/South Moat.jpg" alt="South Moat of Daming Lake scenic area, Jinan, Winter" style="width:auto; height:600px; margin-bottom: 5px;">
   <p style="margin: 0; font-size: 0.8em;">
     <em>South Moat of Daming Lake scenic area, Jinan, Winter</em>
   </p>
