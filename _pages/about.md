@@ -29,10 +29,10 @@ redirect_from:
 <br>
 ---
 ## 🤖 Exploring in
-1. Principle and application of High-throughput sequencing
-2. Art of data analysis
-3. Scientific research in developmental biology
-4. Industry of pharmaceutical and health
+1. Principle and application of High-throughput sequencing<br>
+2. Art of data analysis<br>
+3. Scientific research in developmental biology<br>
+4. Industry of pharmaceutical and health<br>
 <br>
 
 ---
