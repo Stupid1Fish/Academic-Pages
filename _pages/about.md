@@ -26,19 +26,17 @@ redirect_from:
   <p class="large-text">🤔 Job out! Currently, I'm traveling everywhere and trying to capture beautiful moments. </p>
 </body>
 </html>
-<br>
 
 ## 🤖 Exploring in
 <html>
   <body>
     <p> 
-1. Principle and application of High-throughput sequencing<br></p>
+1. Principle and application of High-throughput sequencing</p>
 <p>2. Art of data analysis<br></p>
 <p> 3. Scientific research in developmental biology<br></p>
 <p> 4. Industry of pharmaceutical and health<br></p>
   </body>
 </html>
-<br>
 
 
 ## 📽️ Photographic content
