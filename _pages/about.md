@@ -27,7 +27,7 @@ redirect_from:
 </body>
 </html>
 <br>
----
+
 ## 🤖 Exploring in
 1. Principle and application of High-throughput sequencing<br>
 2. Art of data analysis<br>
@@ -35,7 +35,7 @@ redirect_from:
 4. Industry of pharmaceutical and health<br>
 <br>
 
----
+
 ## 📽️ Photographic content
 <div style="text-align: center;">
   <img src="/images/about_me/Xiaozhou.jpg" alt="The road in Xiaozhou Village near the Zhujiang River" style="width:600px; height:auto; margin-bottom: 5px;">
