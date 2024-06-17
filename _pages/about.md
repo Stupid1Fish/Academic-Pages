@@ -35,11 +35,11 @@ redirect_from:
   <title>Document</title>
   <style>
   body {
-    font-family: Arial, sans-serif; /* 设置整个文档的字体 */
-    line-height: 1.6; /* 设置行高，这里是基于字体大小的倍数 */
+    font-family: Times New Roman; /* 设置整个文档的字体 */
+    line-height: 1.4; /* 设置行高，这里是基于字体大小的倍数 */
   }
   p {
-    font-size: 20px; /* 设置段落的字体大小 */
+    font-size: 18px; /* 设置段落的字体大小 */
     margin-bottom: 10px; /* 设置段落之间的下边距 */
   }
   </style>
