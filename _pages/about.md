@@ -32,11 +32,10 @@ redirect_from:
 <html>
   <body>
     <p> 
-1. Principle and application of High-throughput sequencing<br>
-2. Art of data analysis<br>
-3. Scientific research in developmental biology<br>
-4. Industry of pharmaceutical and health<br>
-   </p>
+1. Principle and application of High-throughput sequencing<br></p>
+<p>2. Art of data analysis<br></p>
+<p> 3. Scientific research in developmental biology<br></p>
+<p> 4. Industry of pharmaceutical and health<br></p>
   </body>
 </html>
 <br>
