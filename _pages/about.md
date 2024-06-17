@@ -29,10 +29,16 @@ redirect_from:
 <br>
 
 ## 🤖 Exploring in
+<html>
+  <body>
+    <p> 
 1. Principle and application of High-throughput sequencing<br>
 2. Art of data analysis<br>
 3. Scientific research in developmental biology<br>
 4. Industry of pharmaceutical and health<br>
+   </p>
+  </body>
+</html>
 <br>
 
 
