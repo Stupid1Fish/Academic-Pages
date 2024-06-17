@@ -92,7 +92,7 @@ redirect_from:
 <div style="text-align: center;">
   <img src="/images/about_me/Dongjianghu.jpg" alt="Misty Xiaodong River, Chenzhou" style="width:auto; height:600px; margin-bottom: 5px;">
   <p style="margin: 0; font-size: 0.8em;">
-    <em>Misty Xiaodong River, Chenzhou, Spring</em>
+    <em>Misty Xiaodongjiang River, Chenzhou, Spring</em>
   </p>
 </div>
 <br>
