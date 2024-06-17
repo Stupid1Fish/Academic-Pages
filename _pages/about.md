@@ -34,18 +34,50 @@ redirect_from:
 
 ## 📽️ Photographic content
 
+
 <div style="text-align: center;">
-  <img src="/images/about_me/Kaiping.jpg" alt="Image of Kaiping Diaolou (pillbox-like houses)" style="width:600px; height:auto; margin-bottom: 5px;">
+  <img src="/images/about_me/Xiaozhou.jpg" alt="The road in Xiaozhou Village near the Zhujiang River" style="width:600px; height:auto; margin-bottom: 5px;">
   <p style="margin: 0; font-size: 0.8em;">
-    <em>Image of Kaiping Diaolou (pillbox-like houses)</em>
+    <em>The road in Xiaozhou Village near the Zhujiang River, Guangzhou, Summer</em>
   </p>
 </div>
 <br>
 
 <div style="text-align: center;">
-  <img src="/images/about_me/Xiaozhou.jpg" alt="The road in Xiaozhou Village near the Zhujiang River" style="width:600px; height:auto; margin-bottom: 5px;">
+  <img src="/images/about_me/Baishuizhai.jpg" alt="The south road of Dongting Lake, Yueyang" style="width:600px; height:auto; margin-bottom: 5px;">
   <p style="margin: 0; font-size: 0.8em;">
-    <em>The road in Xiaozhou Village near the Zhujiang River</em>
+    <em>The waterfall of Baishuizhai, Guangzhou, Spring</em>
+  </p>
+</div>
+
+<div style="text-align: center;">
+  <img src="/images/about_me/Kaiping.jpg" alt="Guanyin (Goddess of Mercy) of Mount Xiqiao, Foshan" style="width:600px; height:auto; margin-bottom: 5px;">
+  <p style="margin: 0; font-size: 0.8em;">
+    <em>Guanyin (Goddess of Mercy) of Mount Xiqiao, Foshan, Winter</em>
+  </p>
+</div>
+<br>
+
+<div style="text-align: center;">
+  <img src="/images/about_me/Quancheng Square.jpg" alt="Quancheng Square, Jinan" style="width:600px; height:auto; margin-bottom: 5px;">
+  <p style="margin: 0; font-size: 0.8em;">
+    <em>Quancheng Square, Jinan, Winter</em>
+  </p>
+</div>
+<br>
+
+<div style="text-align: center;">
+  <img src="/images/about_me/South Moat.jpg" alt="Quancheng Square, Jinan" style="width:auto; height:600px; margin-bottom: 5px;">
+  <p style="margin: 0; font-size: 0.8em;">
+    <em>South Moat of Daming Lake scenic area, Jinan, Winter</em>
+  </p>
+</div>
+<br>
+
+<div style="text-align: center;">
+  <img src="/images/about_me/Kaiping.jpg" alt="Kaiping Diaolou (pillbox-like houses)" style="width:600px; height:auto; margin-bottom: 5px;">
+  <p style="margin: 0; font-size: 0.8em;">
+    <em>Kaiping Diaolou (pillbox-like houses), Jiangmen, Summer</em>
   </p>
 </div>
 <br>
@@ -53,9 +85,34 @@ redirect_from:
 <div style="text-align: center;">
   <img src="/images/about_me/Najin.jpg" alt="The coastline of Naqin Peninsula, Taishan" style="width:600px; height:auto; margin-bottom: 5px;">
   <p style="margin: 0; font-size: 0.8em;">
-    <em>The coastline of Naqin Peninsula, Taishan</em>
+    <em>The coastline of Naqin Peninsula, Taishan, Summer</em>
+  </p>
+</div>
+
+<div style="text-align: center;">
+  <img src="/images/about_me/Dongjianghu.jpg" alt="Misty Xiaodong River, Chenzhou" style="width:600px; height:auto; margin-bottom: 5px;">
+  <p style="margin: 0; font-size: 0.8em;">
+    <em>Misty Xiaodong River, Chenzhou, Spring</em>
   </p>
 </div>
  
+<div style="text-align: center;">
+  <img src="/images/about_me/Dongting.jpg" alt="The south road of Dongting Lake, Yueyang" style="width:auto; height:600px; margin-bottom: 5px;">
+  <p style="margin: 0; font-size: 0.8em;">
+    <em>The south road of Dongting Lake, Yueyang, Spring</em>
+  </p>
+</div>
+
+<div style="text-align: center;">
+  <img src="/images/about_me/Yellow Crane Tower.jpg" alt="The View of Yangtze River from the Yellow Crane Tower" style="width:600px; height:auto; margin-bottom: 5px;">
+  <p style="margin: 0; font-size: 0.8em;">
+    <em>The View of Yangtze River from the Yellow Crane Tower, Wuhan, Winter</em>
+  </p>
+</div>
+
+
+
+
+
 
 
