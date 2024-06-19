@@ -80,22 +80,6 @@ redirect_from:
 <br>
 
 <div style="text-align: center;">
-  <img src="/images/about_me/Quancheng Square.jpg" alt="Quancheng Square, Jinan" style="width:600px; height:auto; margin-bottom: 5px;">
-  <p style="margin: 0; font-size: 0.8em;">
-    <em>Quancheng Square, Jinan, Winter</em>
-  </p>
-</div>
-<br>
-
-<div style="text-align: center;">
-  <img src="/images/about_me/South Moat.jpg" alt="South Moat of Daming Lake scenic area, Jinan, Winter" style="width:auto; height:600px; margin-bottom: 5px;">
-  <p style="margin: 0; font-size: 0.8em;">
-    <em>South Moat of Daming Lake scenic area, Jinan, Winter</em>
-  </p>
-</div>
-<br>
-
-<div style="text-align: center;">
   <img src="/images/about_me/Kaiping.jpg" alt="Kaiping Diaolou (pillbox-like houses)" style="width:600px; height:auto; margin-bottom: 5px;">
   <p style="margin: 0; font-size: 0.8em;">
     <em>Kaiping Diaolou (pillbox-like houses), Jiangmen, Summer</em>
@@ -134,7 +118,21 @@ redirect_from:
   </p>
 </div>
 
+<div style="text-align: center;">
+  <img src="/images/about_me/Quancheng Square.jpg" alt="Quancheng Square, Jinan" style="width:600px; height:auto; margin-bottom: 5px;">
+  <p style="margin: 0; font-size: 0.8em;">
+    <em>Quancheng Square, Jinan, Winter</em>
+  </p>
+</div>
+<br>
 
+<div style="text-align: center;">
+  <img src="/images/about_me/South Moat.jpg" alt="South Moat of Daming Lake scenic area, Jinan, Winter" style="width:auto; height:600px; margin-bottom: 5px;">
+  <p style="margin: 0; font-size: 0.8em;">
+    <em>South Moat of Daming Lake scenic area, Jinan, Winter</em>
+  </p>
+</div>
+<br>
 
 
 
