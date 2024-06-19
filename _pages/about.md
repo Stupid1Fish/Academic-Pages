@@ -46,7 +46,7 @@ redirect_from:
 </head>
   <body>
    
-<p>1. Principle and application of High-throughput sequencing</p>
+<p>1. Principle and application of high-throughput sequencing</p>
 <p>2. Art of data analysis</p>
 <p>3. Scientific research in developmental biology</p>
 <p>4. Industry of pharmaceutical and health</p>
