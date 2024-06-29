@@ -22,9 +22,10 @@
     background-color: #ffffff;
     border: none;
     border-radius: 15px;
-    box-shadow: 1px 6px 4px rgba(227, 220, 220, 0.4);
+    box-shadow: 1px 6px 4px rgba(57, 50, 50, 0.4);
     display: flex:
     gap: 10px;
+    justify-content: space-around;
 }
 .rounded-border-bos{
     max-width: 100px;
