@@ -13,7 +13,6 @@ redirect_from:
   <div class="image-container">
       <a href="/images/certificates/2024_Intermediate Machine Learning.png">
         <img src="/images/certificates/2024_Intermediate Machine Learning.png" alt='Image 1' ></a>
-      <img src="/images/publications/paper1/result1.png" alt="Image 2">
   </div>
 </div>
 
