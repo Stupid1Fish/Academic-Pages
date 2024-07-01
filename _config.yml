@@ -215,6 +215,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  certificates:
+    output: true
+    permalink: /:collection/:path/  
 
 
 # Defaults
@@ -255,6 +258,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _certificates
+  - scope:
+      path: ""
+      type: certificates
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true  
   # _portfolio
   - scope:
       path: ""
