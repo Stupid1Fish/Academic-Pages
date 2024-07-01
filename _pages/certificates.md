@@ -11,7 +11,8 @@ redirect_from:
 <div class="rounded-border-box">
     <h2><a href="/images/certificates/2024_Intermediate Machine Learning.png">2024</a></h2>
   <div class="image-container">
-      <img src="/images/certificates/2024_Intermediate Machine Learning.png" alt='Image 1' >
+      <a href="/images/certificates/2024_Intermediate Machine Learning.png">
+        <img src="/images/certificates/2024_Intermediate Machine Learning.png" alt='Image 1' ></a>
       <img src="/images/publications/paper1/result1.png" alt="Image 2">
   </div>
 </div>
