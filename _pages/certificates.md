@@ -15,14 +15,6 @@ redirect_from:
     <p>more</p>
 </div>
 
-<p style="border-style:solid">實線</p>
-<p style="border-style:dotted">點線</p>
-<p style="border-style:dashed">虛線</p>
-<p style="border-style:double">雙線</p>
-<p style="border-style:groove">凹線</p>
-<p style="border-style:ridge">凸線</p>
-<p style="border-style:inset">嵌入線</p>
-<p style="border-style:outset">浮出線</p>
 
 
 <div class="rounded-border-box">
@@ -41,3 +33,12 @@ redirect_from:
     <h3>2021</h3>
 
 </div>
+
+<p style="border-style:solid">實線</p>
+<p style="border-style:dotted">點線</p>
+<p style="border-style:dashed">虛線</p>
+<p style="border-style:double">雙線</p>
+<p style="border-style:groove">凹線</p>
+<p style="border-style:ridge">凸線</p>
+<p style="border-style:inset">嵌入線</p>
+<p style="border-style:outset">浮出線</p>
