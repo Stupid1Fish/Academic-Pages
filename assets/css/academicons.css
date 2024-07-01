@@ -29,11 +29,6 @@
     justify-content: flex-start;
     align-items: flex-start;
     gap: 10px; 
-
-.image-container {
-    display: flex;
-    gap: 30px; /* 图片之间的间距 */
-}
     
 .image-container img {
     max-width: 450px;
