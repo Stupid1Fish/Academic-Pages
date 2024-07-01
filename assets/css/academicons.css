@@ -26,9 +26,8 @@
     border-radius: 15px;
     box-shadow: 0px 0px 4px rgba(57, 50, 50, 0.4);
     display: flex;   
-    flex-direction: row; 
     justify-content: flex-start;
-    align-items: flex-start;
+    align-items: center;
     gap: 20px; 
 
 .underline {
@@ -49,13 +48,28 @@ h2 {
 .image-container img {
     max-width: 600px;
     height: auto;
-    gap: 50px;
+    gap: 30px;
 }
 
 .image-container a {
     display: inline-block; /* 使<a>标签包裹图片 */
 }
 
+@media (max-width: 600px) {
+    .rounded-border-box {
+        flex-direction: column; /* 垂直排列 */
+        align-items: flex-start; /* 左对齐 */
+    }
+
+    .image-container {
+        flex-direction: column; /* 图片垂直排列 */
+        align-items: center; /* 左对齐 */
+    }
+    h2 {
+        text-align: center; /* 标题居中对齐 */
+    }
+}
+    
 
 .ai {
   font-family: 'Academicons';
