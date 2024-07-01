@@ -14,7 +14,6 @@ redirect_from:
       <img src="/images/publications/paper2/paper2_main.jpg" alt="Image 1" >
       <img src="/images/publications/paper1/result1.png" alt="Image 2">
   </div>
-    <p>more</p>
 </div>
 
 
