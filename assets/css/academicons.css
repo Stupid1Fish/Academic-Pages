@@ -28,7 +28,7 @@
     align-items: flex-start; /* 顶部对齐 */
     gap: 10px; /* 图片之间的间距 */;
 }
-.rounded-border-bos{
+.rounded-border-box img{
     max-width: 30px;
     height: auto;
     border-radius: 10px;
