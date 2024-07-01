@@ -24,7 +24,7 @@
     border-radius: 15px;
     box-shadow: 0px 0px 4px rgba(57, 50, 50, 0.4);
     display: flex;
-    justify-content: flex-start; /* 从左边开始排列 */
+    /*justify-content: flex-start;  从左边开始排列 */
     /* align-items: flex-start;  顶部对齐 */
     gap: 10px; /* 图片之间的间距 */;
 }
