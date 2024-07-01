@@ -9,7 +9,7 @@ redirect_from:
 
 
 <div class="rounded-border-box">
-    <h3>2024</h3>
+    <h2>2024</h2>
     <img src="/images/publications/paper2/paper2_main.jpg" alt="Image 1">
     <img src="/images/publications/paper1/result1.png" alt="Image 1">
     <p>more</p>
@@ -18,19 +18,19 @@ redirect_from:
 
 
 <div class="rounded-border-box">
-    <h3>2023</h3>
+    <h2>2023</h2>
 
 </div>
 
 
 <div class="rounded-border-box">
-    <h3>2022</h3>
+    <h2>2022</h2>
 
 </div>
 
 
 <div class="rounded-border-box">
-    <h3>2021</h3>
+    <h2>2021</h2>
 
 </div>
 
