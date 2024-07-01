@@ -29,7 +29,7 @@
     gap: 10px; /* 图片之间的间距 */;
 }
 .rounded-border-box img{
-    max-width: 30px;
+    max-width: 60px;
     height: auto;
     border-radius: 10px;
 }
