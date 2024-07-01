@@ -18,15 +18,10 @@ redirect_from:
 
 
 
-<div class="image-container">
-    <h2>2023</h2>
-
-</div>
-
-
 <div class="rounded-border-box">
     <h2>2022</h2>
-
+      <a href="/images/certificates/2022_Command Line in Linux.pdf">
+        <img src="/images/certificates/2022_Command Line in Linux.pdf" alt='Image 1' ></a>
 </div>
 
 
