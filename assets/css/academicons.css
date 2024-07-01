@@ -41,7 +41,6 @@ h2 {
 .image-container {
     display: flex;
     justify-content: center;
-    gap: 10px; /* 图片之间的间距 */
 }
     
 .image-container img {
