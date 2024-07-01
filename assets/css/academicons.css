@@ -40,8 +40,6 @@ h2 {
     
 .image-container {
     display: flex;
-    justify-content: flex-start; /* 从左边开始排列 */
-    align-items: flex-start; /* 顶部对齐 */
     gap: 10px; /* 图片之间的间距 */
 }
     
