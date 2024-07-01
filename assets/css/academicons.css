@@ -30,7 +30,7 @@
 .image-container {
     justify-content: flex-start; /* 从左边开始排列 */
     align-items: flex-start; /* 顶部对齐 */
-    max-width: 450px;
+    max-width: 300px;
     height: auto;
     gap: 50px;
 }
