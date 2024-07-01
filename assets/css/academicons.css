@@ -22,14 +22,14 @@
     background-color: #ffffff;
     border: none;
     border-radius: 15px;
-    box-shadow: 1px 6px 4px rgba(57, 50, 50, 0.4);
+    box-shadow: 1px 4px 4px rgba(57, 50, 50, 0.4);
     display: flex:
     justify-content: flex-start; /* 从左边开始排列 */
     align-items: flex-start; /* 顶部对齐 */
     gap: 10px; /* 图片之间的间距 */;
 }
 .rounded-border-bos{
-    max-width: 50px;
+    max-width: 30px;
     height: auto;
     border-radius: 10px;
 }
