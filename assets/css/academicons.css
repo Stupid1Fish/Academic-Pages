@@ -30,6 +30,14 @@
     align-items: flex-start;
     gap: 10px; 
 
+.underline {
+    text-decoration: underline; /* 为链接添加下划线 */
+}
+    
+h2 {
+    text-decoration: underline; /* 为h2元素添加下划线 */
+}    
+    
 .image-container {
     display: flex;
     justify-content: flex-start; /* 从左边开始排列 */
