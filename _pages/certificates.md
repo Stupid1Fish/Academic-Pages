@@ -10,8 +10,10 @@ redirect_from:
 
 <div class="rounded-border-box">
     <h2>2024</h2>
-    <img src="/images/publications/paper2/paper2_main.jpg" alt="Image 1" style="width:600px; height:auto; margin-bottom: 5px;">
-    <img src="/images/publications/paper1/result1.png" alt="Image 1">
+  <div class="rounded-border-box img">
+      <img src="/images/publications/paper2/paper2_main.jpg" alt="Image 1" style="width:600px; height:auto; margin-bottom: 5px;">
+      <img src="/images/publications/paper1/result1.png" alt="Image 1">
+  </div>
     <p>more</p>
 </div>
 
