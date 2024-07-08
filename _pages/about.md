@@ -87,6 +87,7 @@ redirect_from:
 </div>
 <br>
 
+
 <div style="text-align: center;">
   <img src="/images/about_me/Kaiping.jpg" alt="Kaiping Diaolou (pillbox-like houses)" style="width:600px; height:auto; margin-bottom: 5px;">
   <p style="margin: 0; font-size: 0.8em;">
