@@ -80,6 +80,14 @@ redirect_from:
 <br>
 
 <div style="text-align: center;">
+  <img src="/images/about_me/Qianguqing.jpg" alt="Guangdong Eternal Love Performance: The Honor Guard of the Nanyue Kingdom, Foshan" style="width:600px; height:auto; margin-bottom: 5px;">
+  <p style="margin: 0; font-size: 0.8em;">
+    <em>Guangdong Eternal Love Performance: The Honor Guard of the Nanyue Kingdom, Foshan, Summer</em>
+  </p>
+</div>
+<br>
+
+<div style="text-align: center;">
   <img src="/images/about_me/Kaiping.jpg" alt="Kaiping Diaolou (pillbox-like houses)" style="width:600px; height:auto; margin-bottom: 5px;">
   <p style="margin: 0; font-size: 0.8em;">
     <em>Kaiping Diaolou (pillbox-like houses), Jiangmen, Summer</em>
@@ -117,6 +125,7 @@ redirect_from:
     <em>The View of Yangtze River from the Yellow Crane Tower, Wuhan, Winter</em>
   </p>
 </div>
+<br>
 
 <div style="text-align: center;">
   <img src="/images/about_me/Quancheng Square.jpg" alt="Quancheng Square, Jinan" style="width:600px; height:auto; margin-bottom: 5px;">
