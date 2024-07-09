@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in bioinformatics, Jinan University, 2027 (expected)
+* Ph.D in bioinformatics, x University, 2028 (expected)
 * M.S. in Genetics, Jinan University, 2021
 
 Work experience
