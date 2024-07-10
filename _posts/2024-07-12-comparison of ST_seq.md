@@ -1,6 +1,6 @@
 ---
 title: 'Comparison of sequencing-based spatial transcriptomic methods'
-date: 2024-0-12
+date: 2024-07-12
 permalink: /posts/2024/07/comparison of ST_seq/
 tags:
   - cool posts
