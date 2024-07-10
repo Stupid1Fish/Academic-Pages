@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 4'
-date: 2015-08-14
-permalink: /posts/2012/08/blog-post-4/
+title: 'Comparison of sequencing-based spatial transcriptomic methods'
+date: 2024-0-12
+permalink: /posts/2024/07/comparison of sequencing-based spatial transcriptomic methods/
 tags:
   - cool posts
   - category1
