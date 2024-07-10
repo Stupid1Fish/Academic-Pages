@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 2'
-date: 2013-08-14
-permalink: /posts/2013/08/blog-post-2/
+title: 'Systematic comparison of single-cell and single-nucleus RNA-sequencing methods'
+date: 2024-07-10
+permalink: /posts/2024/07/comparison of scRNA and snRNA/
 tags:
   - cool posts
   - category1
